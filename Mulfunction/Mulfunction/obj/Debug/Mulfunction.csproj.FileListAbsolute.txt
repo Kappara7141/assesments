@@ -1,0 +1,7 @@
+D:\vs2017\c# programs\Mulfunction\Mulfunction\obj\Debug\Mulfunction.csprojResolveAssemblyReference.cache
+D:\vs2017\c# programs\Mulfunction\Mulfunction\obj\Debug\Mulfunction.csproj.CoreCompileInputs.cache
+D:\vs2017\c# programs\Mulfunction\Mulfunction\bin\Debug\Mulfunction.exe.config
+D:\vs2017\c# programs\Mulfunction\Mulfunction\bin\Debug\Mulfunction.exe
+D:\vs2017\c# programs\Mulfunction\Mulfunction\bin\Debug\Mulfunction.pdb
+D:\vs2017\c# programs\Mulfunction\Mulfunction\obj\Debug\Mulfunction.exe
+D:\vs2017\c# programs\Mulfunction\Mulfunction\obj\Debug\Mulfunction.pdb

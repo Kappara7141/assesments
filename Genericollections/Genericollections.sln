@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Genericollections", "Genericollections\Genericollections.csproj", "{EBCA7E09-BF8D-4917-99D2-71A61837742D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBCA7E09-BF8D-4917-99D2-71A61837742D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBCA7E09-BF8D-4917-99D2-71A61837742D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBCA7E09-BF8D-4917-99D2-71A61837742D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBCA7E09-BF8D-4917-99D2-71A61837742D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {594CF9D5-D850-4FA4-91A7-4F74884C9163}
+	EndGlobalSection
+EndGlobal

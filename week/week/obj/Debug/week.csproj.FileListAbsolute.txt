@@ -1,0 +1,6 @@
+D:\vs2017\c# programs\week\week\bin\Debug\week.exe.config
+D:\vs2017\c# programs\week\week\bin\Debug\week.exe
+D:\vs2017\c# programs\week\week\bin\Debug\week.pdb
+D:\vs2017\c# programs\week\week\obj\Debug\week.csproj.CoreCompileInputs.cache
+D:\vs2017\c# programs\week\week\obj\Debug\week.exe
+D:\vs2017\c# programs\week\week\obj\Debug\week.pdb

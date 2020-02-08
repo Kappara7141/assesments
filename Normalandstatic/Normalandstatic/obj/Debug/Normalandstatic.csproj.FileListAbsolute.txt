@@ -1,0 +1,6 @@
+D:\vs2017\c# programs\Normalandstatic\Normalandstatic\bin\Debug\Normalandstatic.exe.config
+D:\vs2017\c# programs\Normalandstatic\Normalandstatic\bin\Debug\Normalandstatic.exe
+D:\vs2017\c# programs\Normalandstatic\Normalandstatic\bin\Debug\Normalandstatic.pdb
+D:\vs2017\c# programs\Normalandstatic\Normalandstatic\obj\Debug\Normalandstatic.csproj.CoreCompileInputs.cache
+D:\vs2017\c# programs\Normalandstatic\Normalandstatic\obj\Debug\Normalandstatic.exe
+D:\vs2017\c# programs\Normalandstatic\Normalandstatic\obj\Debug\Normalandstatic.pdb

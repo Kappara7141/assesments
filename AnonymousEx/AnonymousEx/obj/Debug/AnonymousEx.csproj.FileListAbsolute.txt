@@ -1,0 +1,7 @@
+D:\vs2017\c# programs\AnonymousEx\AnonymousEx\bin\Debug\AnonymousEx.exe.config
+D:\vs2017\c# programs\AnonymousEx\AnonymousEx\bin\Debug\AnonymousEx.exe
+D:\vs2017\c# programs\AnonymousEx\AnonymousEx\bin\Debug\AnonymousEx.pdb
+D:\vs2017\c# programs\AnonymousEx\AnonymousEx\obj\Debug\AnonymousEx.csprojResolveAssemblyReference.cache
+D:\vs2017\c# programs\AnonymousEx\AnonymousEx\obj\Debug\AnonymousEx.csproj.CoreCompileInputs.cache
+D:\vs2017\c# programs\AnonymousEx\AnonymousEx\obj\Debug\AnonymousEx.exe
+D:\vs2017\c# programs\AnonymousEx\AnonymousEx\obj\Debug\AnonymousEx.pdb

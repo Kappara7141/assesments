@@ -1,0 +1,7 @@
+D:\vs2017\c# programs\Exceptiontry\Exceptiontry\obj\Debug\Exceptiontry.csprojResolveAssemblyReference.cache
+D:\vs2017\c# programs\Exceptiontry\Exceptiontry\obj\Debug\Exceptiontry.csproj.CoreCompileInputs.cache
+D:\vs2017\c# programs\Exceptiontry\Exceptiontry\bin\Debug\Exceptiontry.exe.config
+D:\vs2017\c# programs\Exceptiontry\Exceptiontry\bin\Debug\Exceptiontry.exe
+D:\vs2017\c# programs\Exceptiontry\Exceptiontry\bin\Debug\Exceptiontry.pdb
+D:\vs2017\c# programs\Exceptiontry\Exceptiontry\obj\Debug\Exceptiontry.exe
+D:\vs2017\c# programs\Exceptiontry\Exceptiontry\obj\Debug\Exceptiontry.pdb

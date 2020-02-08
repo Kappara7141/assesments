@@ -1,0 +1,7 @@
+D:\vs2017\c# programs\Centimeters\Centimeters\obj\Debug\Centimeters.csprojResolveAssemblyReference.cache
+D:\vs2017\c# programs\Centimeters\Centimeters\obj\Debug\Centimeters.csproj.CoreCompileInputs.cache
+D:\vs2017\c# programs\Centimeters\Centimeters\bin\Debug\Centimeters.exe.config
+D:\vs2017\c# programs\Centimeters\Centimeters\bin\Debug\Centimeters.exe
+D:\vs2017\c# programs\Centimeters\Centimeters\bin\Debug\Centimeters.pdb
+D:\vs2017\c# programs\Centimeters\Centimeters\obj\Debug\Centimeters.exe
+D:\vs2017\c# programs\Centimeters\Centimeters\obj\Debug\Centimeters.pdb

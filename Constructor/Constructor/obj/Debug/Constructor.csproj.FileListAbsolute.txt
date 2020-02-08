@@ -1,0 +1,7 @@
+D:\vs2017\c# programs\Constructor\Constructor\obj\Debug\Constructor.csprojResolveAssemblyReference.cache
+D:\vs2017\c# programs\Constructor\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
+D:\vs2017\c# programs\Constructor\Constructor\bin\Debug\Constructor.exe.config
+D:\vs2017\c# programs\Constructor\Constructor\bin\Debug\Constructor.exe
+D:\vs2017\c# programs\Constructor\Constructor\bin\Debug\Constructor.pdb
+D:\vs2017\c# programs\Constructor\Constructor\obj\Debug\Constructor.exe
+D:\vs2017\c# programs\Constructor\Constructor\obj\Debug\Constructor.pdb

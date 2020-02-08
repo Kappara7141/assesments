@@ -1,0 +1,7 @@
+D:\vs2017\c# programs\valuetype\valuetype\bin\Debug\valuetype.exe.config
+D:\vs2017\c# programs\valuetype\valuetype\bin\Debug\valuetype.exe
+D:\vs2017\c# programs\valuetype\valuetype\bin\Debug\valuetype.pdb
+D:\vs2017\c# programs\valuetype\valuetype\obj\Debug\valuetype.csprojResolveAssemblyReference.cache
+D:\vs2017\c# programs\valuetype\valuetype\obj\Debug\valuetype.csproj.CoreCompileInputs.cache
+D:\vs2017\c# programs\valuetype\valuetype\obj\Debug\valuetype.exe
+D:\vs2017\c# programs\valuetype\valuetype\obj\Debug\valuetype.pdb

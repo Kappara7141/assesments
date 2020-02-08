@@ -1,0 +1,7 @@
+D:\vs2017\c# programs\String4\String4\obj\Debug\String4.csprojResolveAssemblyReference.cache
+D:\vs2017\c# programs\String4\String4\obj\Debug\String4.csproj.CoreCompileInputs.cache
+D:\vs2017\c# programs\String4\String4\bin\Debug\String4.exe.config
+D:\vs2017\c# programs\String4\String4\bin\Debug\String4.exe
+D:\vs2017\c# programs\String4\String4\bin\Debug\String4.pdb
+D:\vs2017\c# programs\String4\String4\obj\Debug\String4.exe
+D:\vs2017\c# programs\String4\String4\obj\Debug\String4.pdb

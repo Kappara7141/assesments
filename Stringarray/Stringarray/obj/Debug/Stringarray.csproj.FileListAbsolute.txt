@@ -1,0 +1,7 @@
+D:\vs2017\c# programs\Stringarray\Stringarray\obj\Debug\Stringarray.csprojResolveAssemblyReference.cache
+D:\vs2017\c# programs\Stringarray\Stringarray\obj\Debug\Stringarray.csproj.CoreCompileInputs.cache
+D:\vs2017\c# programs\Stringarray\Stringarray\bin\Debug\Stringarray.exe.config
+D:\vs2017\c# programs\Stringarray\Stringarray\bin\Debug\Stringarray.exe
+D:\vs2017\c# programs\Stringarray\Stringarray\bin\Debug\Stringarray.pdb
+D:\vs2017\c# programs\Stringarray\Stringarray\obj\Debug\Stringarray.exe
+D:\vs2017\c# programs\Stringarray\Stringarray\obj\Debug\Stringarray.pdb

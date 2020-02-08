@@ -1,0 +1,7 @@
+D:\vs2017\c# programs\Xmlfile3\Xmlfile3\bin\Debug\Xmlfile3.exe.config
+D:\vs2017\c# programs\Xmlfile3\Xmlfile3\bin\Debug\Xmlfile3.exe
+D:\vs2017\c# programs\Xmlfile3\Xmlfile3\bin\Debug\Xmlfile3.pdb
+D:\vs2017\c# programs\Xmlfile3\Xmlfile3\obj\Debug\Xmlfile3.csprojResolveAssemblyReference.cache
+D:\vs2017\c# programs\Xmlfile3\Xmlfile3\obj\Debug\Xmlfile3.csproj.CoreCompileInputs.cache
+D:\vs2017\c# programs\Xmlfile3\Xmlfile3\obj\Debug\Xmlfile3.exe
+D:\vs2017\c# programs\Xmlfile3\Xmlfile3\obj\Debug\Xmlfile3.pdb

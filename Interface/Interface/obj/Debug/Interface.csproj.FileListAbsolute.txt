@@ -1,0 +1,7 @@
+D:\vs2017\c# programs\Interface\Interface\bin\Debug\Interface.exe.config
+D:\vs2017\c# programs\Interface\Interface\bin\Debug\Interface.exe
+D:\vs2017\c# programs\Interface\Interface\bin\Debug\Interface.pdb
+D:\vs2017\c# programs\Interface\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+D:\vs2017\c# programs\Interface\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+D:\vs2017\c# programs\Interface\Interface\obj\Debug\Interface.exe
+D:\vs2017\c# programs\Interface\Interface\obj\Debug\Interface.pdb

@@ -1,0 +1,7 @@
+D:\vs2017\c# programs\Examoop\Examoop\obj\Debug\Examoop.csprojResolveAssemblyReference.cache
+D:\vs2017\c# programs\Examoop\Examoop\obj\Debug\Examoop.csproj.CoreCompileInputs.cache
+D:\vs2017\c# programs\Examoop\Examoop\bin\Debug\Examoop.exe.config
+D:\vs2017\c# programs\Examoop\Examoop\bin\Debug\Examoop.exe
+D:\vs2017\c# programs\Examoop\Examoop\bin\Debug\Examoop.pdb
+D:\vs2017\c# programs\Examoop\Examoop\obj\Debug\Examoop.exe
+D:\vs2017\c# programs\Examoop\Examoop\obj\Debug\Examoop.pdb

@@ -1,0 +1,7 @@
+D:\vs2017\c# programs\Genericollections\Genericollections\bin\Debug\Genericollections.exe.config
+D:\vs2017\c# programs\Genericollections\Genericollections\bin\Debug\Genericollections.exe
+D:\vs2017\c# programs\Genericollections\Genericollections\bin\Debug\Genericollections.pdb
+D:\vs2017\c# programs\Genericollections\Genericollections\obj\Debug\Genericollections.csprojResolveAssemblyReference.cache
+D:\vs2017\c# programs\Genericollections\Genericollections\obj\Debug\Genericollections.csproj.CoreCompileInputs.cache
+D:\vs2017\c# programs\Genericollections\Genericollections\obj\Debug\Genericollections.exe
+D:\vs2017\c# programs\Genericollections\Genericollections\obj\Debug\Genericollections.pdb

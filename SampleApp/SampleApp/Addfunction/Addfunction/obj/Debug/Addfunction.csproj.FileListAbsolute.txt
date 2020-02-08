@@ -1,0 +1,7 @@
+D:\vs2017\c# programs\SampleApp\SampleApp\Addfunction\Addfunction\obj\Debug\Addfunction.csprojResolveAssemblyReference.cache
+D:\vs2017\c# programs\SampleApp\SampleApp\Addfunction\Addfunction\obj\Debug\Addfunction.csproj.CoreCompileInputs.cache
+D:\vs2017\c# programs\SampleApp\SampleApp\Addfunction\Addfunction\bin\Debug\Addfunction.exe.config
+D:\vs2017\c# programs\SampleApp\SampleApp\Addfunction\Addfunction\bin\Debug\Addfunction.exe
+D:\vs2017\c# programs\SampleApp\SampleApp\Addfunction\Addfunction\bin\Debug\Addfunction.pdb
+D:\vs2017\c# programs\SampleApp\SampleApp\Addfunction\Addfunction\obj\Debug\Addfunction.exe
+D:\vs2017\c# programs\SampleApp\SampleApp\Addfunction\Addfunction\obj\Debug\Addfunction.pdb

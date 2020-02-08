@@ -1,0 +1,7 @@
+D:\vs2017\c# programs\automatictime\automatictime\bin\Debug\automatictime.exe.config
+D:\vs2017\c# programs\automatictime\automatictime\bin\Debug\automatictime.exe
+D:\vs2017\c# programs\automatictime\automatictime\bin\Debug\automatictime.pdb
+D:\vs2017\c# programs\automatictime\automatictime\obj\Debug\automatictime.csprojResolveAssemblyReference.cache
+D:\vs2017\c# programs\automatictime\automatictime\obj\Debug\automatictime.csproj.CoreCompileInputs.cache
+D:\vs2017\c# programs\automatictime\automatictime\obj\Debug\automatictime.exe
+D:\vs2017\c# programs\automatictime\automatictime\obj\Debug\automatictime.pdb

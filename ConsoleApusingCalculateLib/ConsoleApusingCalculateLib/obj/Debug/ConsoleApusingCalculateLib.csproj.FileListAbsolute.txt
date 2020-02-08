@@ -1,0 +1,9 @@
+D:\vs2017\c# programs\ConsoleApusingCalculateLib\ConsoleApusingCalculateLib\bin\Debug\ConsoleApusingCalculateLib.exe.config
+D:\vs2017\c# programs\ConsoleApusingCalculateLib\ConsoleApusingCalculateLib\bin\Debug\ConsoleApusingCalculateLib.exe
+D:\vs2017\c# programs\ConsoleApusingCalculateLib\ConsoleApusingCalculateLib\bin\Debug\ConsoleApusingCalculateLib.pdb
+D:\vs2017\c# programs\ConsoleApusingCalculateLib\ConsoleApusingCalculateLib\bin\Debug\ClassLibCalculation.dll
+D:\vs2017\c# programs\ConsoleApusingCalculateLib\ConsoleApusingCalculateLib\bin\Debug\ClassLibCalculation.pdb
+D:\vs2017\c# programs\ConsoleApusingCalculateLib\ConsoleApusingCalculateLib\obj\Debug\ConsoleApusingCalculateLib.csprojResolveAssemblyReference.cache
+D:\vs2017\c# programs\ConsoleApusingCalculateLib\ConsoleApusingCalculateLib\obj\Debug\ConsoleApusingCalculateLib.csproj.CoreCompileInputs.cache
+D:\vs2017\c# programs\ConsoleApusingCalculateLib\ConsoleApusingCalculateLib\obj\Debug\ConsoleApusingCalculateLib.exe
+D:\vs2017\c# programs\ConsoleApusingCalculateLib\ConsoleApusingCalculateLib\obj\Debug\ConsoleApusingCalculateLib.pdb

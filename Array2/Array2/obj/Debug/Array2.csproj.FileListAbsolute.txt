@@ -1,0 +1,7 @@
+D:\vs2017\c# programs\Array2\Array2\bin\Debug\Array2.exe.config
+D:\vs2017\c# programs\Array2\Array2\bin\Debug\Array2.exe
+D:\vs2017\c# programs\Array2\Array2\bin\Debug\Array2.pdb
+D:\vs2017\c# programs\Array2\Array2\obj\Debug\Array2.csprojResolveAssemblyReference.cache
+D:\vs2017\c# programs\Array2\Array2\obj\Debug\Array2.csproj.CoreCompileInputs.cache
+D:\vs2017\c# programs\Array2\Array2\obj\Debug\Array2.exe
+D:\vs2017\c# programs\Array2\Array2\obj\Debug\Array2.pdb

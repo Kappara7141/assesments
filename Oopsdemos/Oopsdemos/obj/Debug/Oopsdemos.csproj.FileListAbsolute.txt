@@ -1,0 +1,7 @@
+D:\vs2017\c# programs\Oopsdemos\Oopsdemos\obj\Debug\Oopsdemos.csprojResolveAssemblyReference.cache
+D:\vs2017\c# programs\Oopsdemos\Oopsdemos\obj\Debug\Oopsdemos.csproj.CoreCompileInputs.cache
+D:\vs2017\c# programs\Oopsdemos\Oopsdemos\bin\Debug\Oopsdemos.exe.config
+D:\vs2017\c# programs\Oopsdemos\Oopsdemos\bin\Debug\Oopsdemos.exe
+D:\vs2017\c# programs\Oopsdemos\Oopsdemos\bin\Debug\Oopsdemos.pdb
+D:\vs2017\c# programs\Oopsdemos\Oopsdemos\obj\Debug\Oopsdemos.exe
+D:\vs2017\c# programs\Oopsdemos\Oopsdemos\obj\Debug\Oopsdemos.pdb

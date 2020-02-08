@@ -1,0 +1,7 @@
+D:\vs2017\c# programs\Propertyoop\Propertyoop\bin\Debug\Propertyoop.exe.config
+D:\vs2017\c# programs\Propertyoop\Propertyoop\bin\Debug\Propertyoop.exe
+D:\vs2017\c# programs\Propertyoop\Propertyoop\bin\Debug\Propertyoop.pdb
+D:\vs2017\c# programs\Propertyoop\Propertyoop\obj\Debug\Propertyoop.csprojResolveAssemblyReference.cache
+D:\vs2017\c# programs\Propertyoop\Propertyoop\obj\Debug\Propertyoop.csproj.CoreCompileInputs.cache
+D:\vs2017\c# programs\Propertyoop\Propertyoop\obj\Debug\Propertyoop.exe
+D:\vs2017\c# programs\Propertyoop\Propertyoop\obj\Debug\Propertyoop.pdb

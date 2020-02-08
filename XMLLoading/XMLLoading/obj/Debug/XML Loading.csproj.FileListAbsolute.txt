@@ -1,0 +1,7 @@
+D:\vs2017\c# programs\XML Loading\XML Loading\bin\Debug\XML Loading.exe.config
+D:\vs2017\c# programs\XML Loading\XML Loading\bin\Debug\XML Loading.exe
+D:\vs2017\c# programs\XML Loading\XML Loading\bin\Debug\XML Loading.pdb
+D:\vs2017\c# programs\XML Loading\XML Loading\obj\Debug\XML Loading.csprojResolveAssemblyReference.cache
+D:\vs2017\c# programs\XML Loading\XML Loading\obj\Debug\XML Loading.csproj.CoreCompileInputs.cache
+D:\vs2017\c# programs\XML Loading\XML Loading\obj\Debug\XML Loading.exe
+D:\vs2017\c# programs\XML Loading\XML Loading\obj\Debug\XML Loading.pdb

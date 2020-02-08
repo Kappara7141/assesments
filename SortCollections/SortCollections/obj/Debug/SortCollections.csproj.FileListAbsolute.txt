@@ -1,0 +1,7 @@
+D:\vs2017\c# programs\SortCollections\SortCollections\obj\Debug\SortCollections.csprojResolveAssemblyReference.cache
+D:\vs2017\c# programs\SortCollections\SortCollections\obj\Debug\SortCollections.csproj.CoreCompileInputs.cache
+D:\vs2017\c# programs\SortCollections\SortCollections\bin\Debug\SortCollections.exe.config
+D:\vs2017\c# programs\SortCollections\SortCollections\bin\Debug\SortCollections.exe
+D:\vs2017\c# programs\SortCollections\SortCollections\bin\Debug\SortCollections.pdb
+D:\vs2017\c# programs\SortCollections\SortCollections\obj\Debug\SortCollections.exe
+D:\vs2017\c# programs\SortCollections\SortCollections\obj\Debug\SortCollections.pdb

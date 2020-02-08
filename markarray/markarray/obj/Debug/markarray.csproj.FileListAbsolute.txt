@@ -1,0 +1,7 @@
+D:\vs2017\c# programs\markarray\markarray\obj\Debug\markarray.csprojResolveAssemblyReference.cache
+D:\vs2017\c# programs\markarray\markarray\obj\Debug\markarray.csproj.CoreCompileInputs.cache
+D:\vs2017\c# programs\markarray\markarray\bin\Debug\markarray.exe.config
+D:\vs2017\c# programs\markarray\markarray\bin\Debug\markarray.exe
+D:\vs2017\c# programs\markarray\markarray\bin\Debug\markarray.pdb
+D:\vs2017\c# programs\markarray\markarray\obj\Debug\markarray.exe
+D:\vs2017\c# programs\markarray\markarray\obj\Debug\markarray.pdb

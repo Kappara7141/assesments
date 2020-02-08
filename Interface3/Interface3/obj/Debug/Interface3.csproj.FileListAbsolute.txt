@@ -1,0 +1,6 @@
+D:\vs2017\c# programs\Interface3\Interface3\bin\Debug\Interface3.exe.config
+D:\vs2017\c# programs\Interface3\Interface3\bin\Debug\Interface3.exe
+D:\vs2017\c# programs\Interface3\Interface3\bin\Debug\Interface3.pdb
+D:\vs2017\c# programs\Interface3\Interface3\obj\Debug\Interface3.csproj.CoreCompileInputs.cache
+D:\vs2017\c# programs\Interface3\Interface3\obj\Debug\Interface3.exe
+D:\vs2017\c# programs\Interface3\Interface3\obj\Debug\Interface3.pdb

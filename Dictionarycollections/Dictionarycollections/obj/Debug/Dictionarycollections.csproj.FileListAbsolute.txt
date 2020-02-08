@@ -1,0 +1,7 @@
+D:\vs2017\c# programs\Dictionarycollections\Dictionarycollections\bin\Debug\Dictionarycollections.exe.config
+D:\vs2017\c# programs\Dictionarycollections\Dictionarycollections\bin\Debug\Dictionarycollections.exe
+D:\vs2017\c# programs\Dictionarycollections\Dictionarycollections\bin\Debug\Dictionarycollections.pdb
+D:\vs2017\c# programs\Dictionarycollections\Dictionarycollections\obj\Debug\Dictionarycollections.csprojResolveAssemblyReference.cache
+D:\vs2017\c# programs\Dictionarycollections\Dictionarycollections\obj\Debug\Dictionarycollections.csproj.CoreCompileInputs.cache
+D:\vs2017\c# programs\Dictionarycollections\Dictionarycollections\obj\Debug\Dictionarycollections.exe
+D:\vs2017\c# programs\Dictionarycollections\Dictionarycollections\obj\Debug\Dictionarycollections.pdb

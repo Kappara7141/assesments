@@ -1,0 +1,7 @@
+D:\vs2017\c# programs\Reversearray\Reversearray\obj\Debug\Reversearray.csprojResolveAssemblyReference.cache
+D:\vs2017\c# programs\Reversearray\Reversearray\obj\Debug\Reversearray.csproj.CoreCompileInputs.cache
+D:\vs2017\c# programs\Reversearray\Reversearray\bin\Debug\Reversearray.exe.config
+D:\vs2017\c# programs\Reversearray\Reversearray\bin\Debug\Reversearray.exe
+D:\vs2017\c# programs\Reversearray\Reversearray\bin\Debug\Reversearray.pdb
+D:\vs2017\c# programs\Reversearray\Reversearray\obj\Debug\Reversearray.exe
+D:\vs2017\c# programs\Reversearray\Reversearray\obj\Debug\Reversearray.pdb

@@ -1,0 +1,7 @@
+D:\vs2017\c# programs\GenericsEx\GenericsEx\obj\Debug\GenericsEx.csprojResolveAssemblyReference.cache
+D:\vs2017\c# programs\GenericsEx\GenericsEx\obj\Debug\GenericsEx.csproj.CoreCompileInputs.cache
+D:\vs2017\c# programs\GenericsEx\GenericsEx\bin\Debug\GenericsEx.exe.config
+D:\vs2017\c# programs\GenericsEx\GenericsEx\bin\Debug\GenericsEx.exe
+D:\vs2017\c# programs\GenericsEx\GenericsEx\bin\Debug\GenericsEx.pdb
+D:\vs2017\c# programs\GenericsEx\GenericsEx\obj\Debug\GenericsEx.exe
+D:\vs2017\c# programs\GenericsEx\GenericsEx\obj\Debug\GenericsEx.pdb

@@ -1,0 +1,7 @@
+D:\vs2017\c# programs\SampleApp\SampleApp\productnum\productnum\bin\Debug\productnum.exe.config
+D:\vs2017\c# programs\SampleApp\SampleApp\productnum\productnum\bin\Debug\productnum.exe
+D:\vs2017\c# programs\SampleApp\SampleApp\productnum\productnum\bin\Debug\productnum.pdb
+D:\vs2017\c# programs\SampleApp\SampleApp\productnum\productnum\obj\Debug\productnum.csprojResolveAssemblyReference.cache
+D:\vs2017\c# programs\SampleApp\SampleApp\productnum\productnum\obj\Debug\productnum.csproj.CoreCompileInputs.cache
+D:\vs2017\c# programs\SampleApp\SampleApp\productnum\productnum\obj\Debug\productnum.exe
+D:\vs2017\c# programs\SampleApp\SampleApp\productnum\productnum\obj\Debug\productnum.pdb

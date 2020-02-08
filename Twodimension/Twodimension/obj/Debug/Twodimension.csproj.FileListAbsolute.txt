@@ -1,0 +1,7 @@
+D:\vs2017\c# programs\Twodimension\Twodimension\obj\Debug\Twodimension.csprojResolveAssemblyReference.cache
+D:\vs2017\c# programs\Twodimension\Twodimension\obj\Debug\Twodimension.csproj.CoreCompileInputs.cache
+D:\vs2017\c# programs\Twodimension\Twodimension\bin\Debug\Twodimension.exe.config
+D:\vs2017\c# programs\Twodimension\Twodimension\bin\Debug\Twodimension.exe
+D:\vs2017\c# programs\Twodimension\Twodimension\bin\Debug\Twodimension.pdb
+D:\vs2017\c# programs\Twodimension\Twodimension\obj\Debug\Twodimension.exe
+D:\vs2017\c# programs\Twodimension\Twodimension\obj\Debug\Twodimension.pdb

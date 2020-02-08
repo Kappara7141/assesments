@@ -1,0 +1,7 @@
+D:\vs2017\c# programs\SampleApp\SampleApp\Controlstructures\Controlstructures\obj\Debug\Controlstructures.csprojResolveAssemblyReference.cache
+D:\vs2017\c# programs\SampleApp\SampleApp\Controlstructures\Controlstructures\obj\Debug\Controlstructures.csproj.CoreCompileInputs.cache
+D:\vs2017\c# programs\SampleApp\SampleApp\Controlstructures\Controlstructures\bin\Debug\Controlstructures.exe.config
+D:\vs2017\c# programs\SampleApp\SampleApp\Controlstructures\Controlstructures\bin\Debug\Controlstructures.exe
+D:\vs2017\c# programs\SampleApp\SampleApp\Controlstructures\Controlstructures\bin\Debug\Controlstructures.pdb
+D:\vs2017\c# programs\SampleApp\SampleApp\Controlstructures\Controlstructures\obj\Debug\Controlstructures.exe
+D:\vs2017\c# programs\SampleApp\SampleApp\Controlstructures\Controlstructures\obj\Debug\Controlstructures.pdb

@@ -1,0 +1,7 @@
+D:\vs2017\c# programs\StaticExample\StaticExample\obj\Debug\StaticExample.csprojResolveAssemblyReference.cache
+D:\vs2017\c# programs\StaticExample\StaticExample\obj\Debug\StaticExample.csproj.CoreCompileInputs.cache
+D:\vs2017\c# programs\StaticExample\StaticExample\bin\Debug\StaticExample.exe.config
+D:\vs2017\c# programs\StaticExample\StaticExample\bin\Debug\StaticExample.exe
+D:\vs2017\c# programs\StaticExample\StaticExample\bin\Debug\StaticExample.pdb
+D:\vs2017\c# programs\StaticExample\StaticExample\obj\Debug\StaticExample.exe
+D:\vs2017\c# programs\StaticExample\StaticExample\obj\Debug\StaticExample.pdb

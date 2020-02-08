@@ -1,0 +1,7 @@
+D:\vs2017\c# programs\ThreadExample\ThreadExample\obj\Debug\ThreadExample.csprojResolveAssemblyReference.cache
+D:\vs2017\c# programs\ThreadExample\ThreadExample\obj\Debug\ThreadExample.csproj.CoreCompileInputs.cache
+D:\vs2017\c# programs\ThreadExample\ThreadExample\bin\Debug\ThreadExample.exe.config
+D:\vs2017\c# programs\ThreadExample\ThreadExample\bin\Debug\ThreadExample.exe
+D:\vs2017\c# programs\ThreadExample\ThreadExample\bin\Debug\ThreadExample.pdb
+D:\vs2017\c# programs\ThreadExample\ThreadExample\obj\Debug\ThreadExample.exe
+D:\vs2017\c# programs\ThreadExample\ThreadExample\obj\Debug\ThreadExample.pdb

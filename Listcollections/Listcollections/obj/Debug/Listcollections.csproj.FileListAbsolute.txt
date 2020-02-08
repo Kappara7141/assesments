@@ -1,0 +1,7 @@
+D:\vs2017\c# programs\Listcollections\Listcollections\obj\Debug\Listcollections.csprojResolveAssemblyReference.cache
+D:\vs2017\c# programs\Listcollections\Listcollections\obj\Debug\Listcollections.csproj.CoreCompileInputs.cache
+D:\vs2017\c# programs\Listcollections\Listcollections\bin\Debug\Listcollections.exe.config
+D:\vs2017\c# programs\Listcollections\Listcollections\bin\Debug\Listcollections.exe
+D:\vs2017\c# programs\Listcollections\Listcollections\bin\Debug\Listcollections.pdb
+D:\vs2017\c# programs\Listcollections\Listcollections\obj\Debug\Listcollections.exe
+D:\vs2017\c# programs\Listcollections\Listcollections\obj\Debug\Listcollections.pdb

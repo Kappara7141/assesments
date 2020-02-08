@@ -1,0 +1,7 @@
+D:\vs2017\c# programs\FileIO1\FileIO1\bin\Debug\FileIO1.exe.config
+D:\vs2017\c# programs\FileIO1\FileIO1\bin\Debug\FileIO1.exe
+D:\vs2017\c# programs\FileIO1\FileIO1\bin\Debug\FileIO1.pdb
+D:\vs2017\c# programs\FileIO1\FileIO1\obj\Debug\FileIO1.csprojResolveAssemblyReference.cache
+D:\vs2017\c# programs\FileIO1\FileIO1\obj\Debug\FileIO1.csproj.CoreCompileInputs.cache
+D:\vs2017\c# programs\FileIO1\FileIO1\obj\Debug\FileIO1.exe
+D:\vs2017\c# programs\FileIO1\FileIO1\obj\Debug\FileIO1.pdb

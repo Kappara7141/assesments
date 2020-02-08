@@ -1,0 +1,7 @@
+D:\vs2017\c# programs\Collectionstack\Collectionstack\bin\Debug\Collectionstack.exe.config
+D:\vs2017\c# programs\Collectionstack\Collectionstack\bin\Debug\Collectionstack.exe
+D:\vs2017\c# programs\Collectionstack\Collectionstack\bin\Debug\Collectionstack.pdb
+D:\vs2017\c# programs\Collectionstack\Collectionstack\obj\Debug\Collectionstack.csprojResolveAssemblyReference.cache
+D:\vs2017\c# programs\Collectionstack\Collectionstack\obj\Debug\Collectionstack.csproj.CoreCompileInputs.cache
+D:\vs2017\c# programs\Collectionstack\Collectionstack\obj\Debug\Collectionstack.exe
+D:\vs2017\c# programs\Collectionstack\Collectionstack\obj\Debug\Collectionstack.pdb

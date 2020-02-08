@@ -1,0 +1,7 @@
+D:\vs2017\c# programs\Greetingsbday\Greetingsbday\obj\Debug\Greetingsbday.csprojResolveAssemblyReference.cache
+D:\vs2017\c# programs\Greetingsbday\Greetingsbday\obj\Debug\Greetingsbday.csproj.CoreCompileInputs.cache
+D:\vs2017\c# programs\Greetingsbday\Greetingsbday\bin\Debug\Greetingsbday.exe.config
+D:\vs2017\c# programs\Greetingsbday\Greetingsbday\bin\Debug\Greetingsbday.exe
+D:\vs2017\c# programs\Greetingsbday\Greetingsbday\bin\Debug\Greetingsbday.pdb
+D:\vs2017\c# programs\Greetingsbday\Greetingsbday\obj\Debug\Greetingsbday.exe
+D:\vs2017\c# programs\Greetingsbday\Greetingsbday\obj\Debug\Greetingsbday.pdb

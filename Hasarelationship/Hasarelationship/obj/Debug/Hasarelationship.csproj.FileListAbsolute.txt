@@ -1,0 +1,7 @@
+D:\vs2017\c# programs\Hasarelationship\Hasarelationship\bin\Debug\Hasarelationship.exe.config
+D:\vs2017\c# programs\Hasarelationship\Hasarelationship\bin\Debug\Hasarelationship.exe
+D:\vs2017\c# programs\Hasarelationship\Hasarelationship\bin\Debug\Hasarelationship.pdb
+D:\vs2017\c# programs\Hasarelationship\Hasarelationship\obj\Debug\Hasarelationship.csprojResolveAssemblyReference.cache
+D:\vs2017\c# programs\Hasarelationship\Hasarelationship\obj\Debug\Hasarelationship.csproj.CoreCompileInputs.cache
+D:\vs2017\c# programs\Hasarelationship\Hasarelationship\obj\Debug\Hasarelationship.exe
+D:\vs2017\c# programs\Hasarelationship\Hasarelationship\obj\Debug\Hasarelationship.pdb

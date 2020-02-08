@@ -1,0 +1,7 @@
+D:\vs2017\c# programs\ActionExample\ActionExample\bin\Debug\ActionExample.exe.config
+D:\vs2017\c# programs\ActionExample\ActionExample\bin\Debug\ActionExample.exe
+D:\vs2017\c# programs\ActionExample\ActionExample\bin\Debug\ActionExample.pdb
+D:\vs2017\c# programs\ActionExample\ActionExample\obj\Debug\ActionExample.csprojResolveAssemblyReference.cache
+D:\vs2017\c# programs\ActionExample\ActionExample\obj\Debug\ActionExample.csproj.CoreCompileInputs.cache
+D:\vs2017\c# programs\ActionExample\ActionExample\obj\Debug\ActionExample.exe
+D:\vs2017\c# programs\ActionExample\ActionExample\obj\Debug\ActionExample.pdb

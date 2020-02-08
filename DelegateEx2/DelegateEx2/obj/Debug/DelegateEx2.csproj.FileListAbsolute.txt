@@ -1,0 +1,7 @@
+D:\vs2017\c# programs\DelegateEx2\DelegateEx2\bin\Debug\DelegateEx2.exe.config
+D:\vs2017\c# programs\DelegateEx2\DelegateEx2\bin\Debug\DelegateEx2.exe
+D:\vs2017\c# programs\DelegateEx2\DelegateEx2\bin\Debug\DelegateEx2.pdb
+D:\vs2017\c# programs\DelegateEx2\DelegateEx2\obj\Debug\DelegateEx2.csprojResolveAssemblyReference.cache
+D:\vs2017\c# programs\DelegateEx2\DelegateEx2\obj\Debug\DelegateEx2.csproj.CoreCompileInputs.cache
+D:\vs2017\c# programs\DelegateEx2\DelegateEx2\obj\Debug\DelegateEx2.exe
+D:\vs2017\c# programs\DelegateEx2\DelegateEx2\obj\Debug\DelegateEx2.pdb

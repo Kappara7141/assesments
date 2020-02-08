@@ -1,0 +1,7 @@
+D:\vs2017\c# programs\Abstraction1\Abstraction1\bin\Debug\Abstraction1.exe.config
+D:\vs2017\c# programs\Abstraction1\Abstraction1\bin\Debug\Abstraction1.exe
+D:\vs2017\c# programs\Abstraction1\Abstraction1\bin\Debug\Abstraction1.pdb
+D:\vs2017\c# programs\Abstraction1\Abstraction1\obj\Debug\Abstraction1.csprojResolveAssemblyReference.cache
+D:\vs2017\c# programs\Abstraction1\Abstraction1\obj\Debug\Abstraction1.csproj.CoreCompileInputs.cache
+D:\vs2017\c# programs\Abstraction1\Abstraction1\obj\Debug\Abstraction1.exe
+D:\vs2017\c# programs\Abstraction1\Abstraction1\obj\Debug\Abstraction1.pdb

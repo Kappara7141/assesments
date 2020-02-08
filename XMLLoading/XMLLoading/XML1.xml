@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Books>
+  <Book>
+    <Id>1209</Id>
+    <Title>"XML file is created</Title>
+    <price>250</price>
+  </Book>
+</Books>

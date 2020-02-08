@@ -1,0 +1,7 @@
+D:\vs2017\c# programs\Hashset\Hashset\bin\Debug\Hashset.exe.config
+D:\vs2017\c# programs\Hashset\Hashset\bin\Debug\Hashset.exe
+D:\vs2017\c# programs\Hashset\Hashset\bin\Debug\Hashset.pdb
+D:\vs2017\c# programs\Hashset\Hashset\obj\Debug\Hashset.csprojResolveAssemblyReference.cache
+D:\vs2017\c# programs\Hashset\Hashset\obj\Debug\Hashset.csproj.CoreCompileInputs.cache
+D:\vs2017\c# programs\Hashset\Hashset\obj\Debug\Hashset.exe
+D:\vs2017\c# programs\Hashset\Hashset\obj\Debug\Hashset.pdb

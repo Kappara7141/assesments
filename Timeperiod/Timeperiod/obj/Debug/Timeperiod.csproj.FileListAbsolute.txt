@@ -1,0 +1,7 @@
+D:\vs2017\c# programs\Timeperiod\Timeperiod\bin\Debug\Timeperiod.exe.config
+D:\vs2017\c# programs\Timeperiod\Timeperiod\bin\Debug\Timeperiod.exe
+D:\vs2017\c# programs\Timeperiod\Timeperiod\bin\Debug\Timeperiod.pdb
+D:\vs2017\c# programs\Timeperiod\Timeperiod\obj\Debug\Timeperiod.csprojResolveAssemblyReference.cache
+D:\vs2017\c# programs\Timeperiod\Timeperiod\obj\Debug\Timeperiod.csproj.CoreCompileInputs.cache
+D:\vs2017\c# programs\Timeperiod\Timeperiod\obj\Debug\Timeperiod.exe
+D:\vs2017\c# programs\Timeperiod\Timeperiod\obj\Debug\Timeperiod.pdb
