@@ -1,0 +1,7 @@
+D:\vs2017\ADOnet\ADODemoex\ADODemoex\bin\Debug\ADODemoex.exe.config
+D:\vs2017\ADOnet\ADODemoex\ADODemoex\bin\Debug\ADODemoex.exe
+D:\vs2017\ADOnet\ADODemoex\ADODemoex\bin\Debug\ADODemoex.pdb
+D:\vs2017\ADOnet\ADODemoex\ADODemoex\obj\Debug\ADODemoex.csprojResolveAssemblyReference.cache
+D:\vs2017\ADOnet\ADODemoex\ADODemoex\obj\Debug\ADODemoex.csproj.CoreCompileInputs.cache
+D:\vs2017\ADOnet\ADODemoex\ADODemoex\obj\Debug\ADODemoex.exe
+D:\vs2017\ADOnet\ADODemoex\ADODemoex\obj\Debug\ADODemoex.pdb

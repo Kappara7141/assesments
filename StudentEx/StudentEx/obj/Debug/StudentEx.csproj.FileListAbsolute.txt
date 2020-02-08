@@ -1,0 +1,7 @@
+D:\vs2017\ADOnet\StudentEx\StudentEx\bin\Debug\StudentEx.exe.config
+D:\vs2017\ADOnet\StudentEx\StudentEx\bin\Debug\StudentEx.exe
+D:\vs2017\ADOnet\StudentEx\StudentEx\bin\Debug\StudentEx.pdb
+D:\vs2017\ADOnet\StudentEx\StudentEx\obj\Debug\StudentEx.csprojResolveAssemblyReference.cache
+D:\vs2017\ADOnet\StudentEx\StudentEx\obj\Debug\StudentEx.csproj.CoreCompileInputs.cache
+D:\vs2017\ADOnet\StudentEx\StudentEx\obj\Debug\StudentEx.exe
+D:\vs2017\ADOnet\StudentEx\StudentEx\obj\Debug\StudentEx.pdb
