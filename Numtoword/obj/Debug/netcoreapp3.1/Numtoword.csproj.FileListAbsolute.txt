@@ -1,0 +1,11 @@
+D:\New folder\Numtoword\bin\Debug\netcoreapp3.1\Numtoword.exe
+D:\New folder\Numtoword\bin\Debug\netcoreapp3.1\Numtoword.deps.json
+D:\New folder\Numtoword\bin\Debug\netcoreapp3.1\Numtoword.runtimeconfig.json
+D:\New folder\Numtoword\bin\Debug\netcoreapp3.1\Numtoword.runtimeconfig.dev.json
+D:\New folder\Numtoword\bin\Debug\netcoreapp3.1\Numtoword.dll
+D:\New folder\Numtoword\bin\Debug\netcoreapp3.1\Numtoword.pdb
+D:\New folder\Numtoword\obj\Debug\netcoreapp3.1\Numtoword.csprojAssemblyReference.cache
+D:\New folder\Numtoword\obj\Debug\netcoreapp3.1\Numtoword.AssemblyInfoInputs.cache
+D:\New folder\Numtoword\obj\Debug\netcoreapp3.1\Numtoword.AssemblyInfo.cs
+D:\New folder\Numtoword\obj\Debug\netcoreapp3.1\Numtoword.dll
+D:\New folder\Numtoword\obj\Debug\netcoreapp3.1\Numtoword.pdb

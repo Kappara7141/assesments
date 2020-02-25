@@ -1,0 +1,11 @@
+D:\vs2017\ADOnet\ModelFirstConsoleApp\ModelFirstConsoleApp\bin\Debug\ModelFirstConsoleApp.exe.config
+D:\vs2017\ADOnet\ModelFirstConsoleApp\ModelFirstConsoleApp\bin\Debug\ModelFirstConsoleApp.exe
+D:\vs2017\ADOnet\ModelFirstConsoleApp\ModelFirstConsoleApp\bin\Debug\ModelFirstConsoleApp.pdb
+D:\vs2017\ADOnet\ModelFirstConsoleApp\ModelFirstConsoleApp\bin\Debug\EntityFramework.dll
+D:\vs2017\ADOnet\ModelFirstConsoleApp\ModelFirstConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+D:\vs2017\ADOnet\ModelFirstConsoleApp\ModelFirstConsoleApp\bin\Debug\EntityFramework.xml
+D:\vs2017\ADOnet\ModelFirstConsoleApp\ModelFirstConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+D:\vs2017\ADOnet\ModelFirstConsoleApp\ModelFirstConsoleApp\obj\Debug\ModelFirstConsoleApp.csprojAssemblyReference.cache
+D:\vs2017\ADOnet\ModelFirstConsoleApp\ModelFirstConsoleApp\obj\Debug\ModelFirstConsoleApp.csproj.CopyComplete
+D:\vs2017\ADOnet\ModelFirstConsoleApp\ModelFirstConsoleApp\obj\Debug\ModelFirstConsoleApp.exe
+D:\vs2017\ADOnet\ModelFirstConsoleApp\ModelFirstConsoleApp\obj\Debug\ModelFirstConsoleApp.pdb

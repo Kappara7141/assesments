@@ -1,0 +1,332 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="EF_ExaminationprojectModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="ExamTable">
+          <Key>
+            <PropertyRef Name="ExamId" />
+          </Key>
+          <Property Name="ExamId" Type="int" Nullable="false" />
+          <Property Name="ExamType" Type="varchar(max)" Nullable="false" />
+          <Property Name="Stdrollno" Type="int" Nullable="false" />
+          <Property Name="Tmarks" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="LoginTable">
+          <Key>
+            <PropertyRef Name="UserId" />
+          </Key>
+          <Property Name="UserId" Type="int" Nullable="false" />
+          <Property Name="Password" Type="varchar(max)" Nullable="false" />
+        </EntityType>
+        <EntityType Name="StudentTable">
+          <Key>
+            <PropertyRef Name="Stdrollno" />
+          </Key>
+          <Property Name="Stdrollno" Type="int" Nullable="false" />
+          <Property Name="stdname" Type="varchar(max)" Nullable="false" />
+          <Property Name="schlname" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="schlId" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="SubjectTable">
+          <Key>
+            <PropertyRef Name="Stdrollno" />
+          </Key>
+          <Property Name="Stdrollno" Type="int" Nullable="false" />
+          <Property Name="ExamId" Type="int" Nullable="false" />
+          <Property Name="English" Type="int" Nullable="false" />
+          <Property Name="Maths" Type="int" Nullable="false" />
+          <Property Name="Science" Type="int" Nullable="false" />
+          <Property Name="Social" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="UserTable">
+          <Key>
+            <PropertyRef Name="UserID" />
+          </Key>
+          <Property Name="UserID" Type="int" Nullable="false" />
+          <Property Name="Uname" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="Email" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="Address" Type="nvarchar(max)" Nullable="false" />
+        </EntityType>
+        <Association Name="FK__ExamTable__Stdro__173876EA">
+          <End Role="StudentTable" Type="Self.StudentTable" Multiplicity="1" />
+          <End Role="ExamTable" Type="Self.ExamTable" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="StudentTable">
+              <PropertyRef Name="Stdrollno" />
+            </Principal>
+            <Dependent Role="ExamTable">
+              <PropertyRef Name="Stdrollno" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__LoginTabl__UserI__1273C1CD">
+          <End Role="UserTable" Type="Self.UserTable" Multiplicity="1" />
+          <End Role="LoginTable" Type="Self.LoginTable" Multiplicity="0..1" />
+          <ReferentialConstraint>
+            <Principal Role="UserTable">
+              <PropertyRef Name="UserID" />
+            </Principal>
+            <Dependent Role="LoginTable">
+              <PropertyRef Name="UserId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__SubjectTa__ExamI__1B0907CE">
+          <End Role="ExamTable" Type="Self.ExamTable" Multiplicity="1" />
+          <End Role="SubjectTable" Type="Self.SubjectTable" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="ExamTable">
+              <PropertyRef Name="ExamId" />
+            </Principal>
+            <Dependent Role="SubjectTable">
+              <PropertyRef Name="ExamId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__SubjectTa__Stdro__1A14E395">
+          <End Role="StudentTable" Type="Self.StudentTable" Multiplicity="1" />
+          <End Role="SubjectTable" Type="Self.SubjectTable" Multiplicity="0..1" />
+          <ReferentialConstraint>
+            <Principal Role="StudentTable">
+              <PropertyRef Name="Stdrollno" />
+            </Principal>
+            <Dependent Role="SubjectTable">
+              <PropertyRef Name="Stdrollno" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="EF_ExaminationprojectModelStoreContainer">
+          <EntitySet Name="ExamTable" EntityType="Self.ExamTable" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="LoginTable" EntityType="Self.LoginTable" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="StudentTable" EntityType="Self.StudentTable" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="SubjectTable" EntityType="Self.SubjectTable" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="UserTable" EntityType="Self.UserTable" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK__ExamTable__Stdro__173876EA" Association="Self.FK__ExamTable__Stdro__173876EA">
+            <End Role="StudentTable" EntitySet="StudentTable" />
+            <End Role="ExamTable" EntitySet="ExamTable" />
+          </AssociationSet>
+          <AssociationSet Name="FK__LoginTabl__UserI__1273C1CD" Association="Self.FK__LoginTabl__UserI__1273C1CD">
+            <End Role="UserTable" EntitySet="UserTable" />
+            <End Role="LoginTable" EntitySet="LoginTable" />
+          </AssociationSet>
+          <AssociationSet Name="FK__SubjectTa__ExamI__1B0907CE" Association="Self.FK__SubjectTa__ExamI__1B0907CE">
+            <End Role="ExamTable" EntitySet="ExamTable" />
+            <End Role="SubjectTable" EntitySet="SubjectTable" />
+          </AssociationSet>
+          <AssociationSet Name="FK__SubjectTa__Stdro__1A14E395" Association="Self.FK__SubjectTa__Stdro__1A14E395">
+            <End Role="StudentTable" EntitySet="StudentTable" />
+            <End Role="SubjectTable" EntitySet="SubjectTable" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="EF_ExaminationprojectModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="ExamTable">
+          <Key>
+            <PropertyRef Name="ExamId" />
+          </Key>
+          <Property Name="ExamId" Type="Int32" Nullable="false" />
+          <Property Name="ExamType" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="Stdrollno" Type="Int32" Nullable="false" />
+          <Property Name="Tmarks" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="StudentTable" Relationship="Self.FK__ExamTable__Stdro__173876EA" FromRole="ExamTable" ToRole="StudentTable" />
+          <NavigationProperty Name="SubjectTables" Relationship="Self.FK__SubjectTa__ExamI__1B0907CE" FromRole="ExamTable" ToRole="SubjectTable" />
+        </EntityType>
+        <EntityType Name="LoginTable">
+          <Key>
+            <PropertyRef Name="UserId" />
+          </Key>
+          <Property Name="UserId" Type="Int32" Nullable="false" />
+          <Property Name="Password" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+          <NavigationProperty Name="UserTable" Relationship="Self.FK__LoginTabl__UserI__1273C1CD" FromRole="LoginTable" ToRole="UserTable" />
+        </EntityType>
+        <EntityType Name="StudentTable">
+          <Key>
+            <PropertyRef Name="Stdrollno" />
+          </Key>
+          <Property Name="Stdrollno" Type="Int32" Nullable="false" />
+          <Property Name="stdname" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="schlname" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="schlId" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="ExamTables" Relationship="Self.FK__ExamTable__Stdro__173876EA" FromRole="StudentTable" ToRole="ExamTable" />
+          <NavigationProperty Name="SubjectTable" Relationship="Self.FK__SubjectTa__Stdro__1A14E395" FromRole="StudentTable" ToRole="SubjectTable" />
+        </EntityType>
+        <EntityType Name="SubjectTable">
+          <Key>
+            <PropertyRef Name="Stdrollno" />
+          </Key>
+          <Property Name="Stdrollno" Type="Int32" Nullable="false" />
+          <Property Name="ExamId" Type="Int32" Nullable="false" />
+          <Property Name="English" Type="Int32" Nullable="false" />
+          <Property Name="Maths" Type="Int32" Nullable="false" />
+          <Property Name="Science" Type="Int32" Nullable="false" />
+          <Property Name="Social" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="ExamTable" Relationship="Self.FK__SubjectTa__ExamI__1B0907CE" FromRole="SubjectTable" ToRole="ExamTable" />
+          <NavigationProperty Name="StudentTable" Relationship="Self.FK__SubjectTa__Stdro__1A14E395" FromRole="SubjectTable" ToRole="StudentTable" />
+        </EntityType>
+        <EntityType Name="UserTable">
+          <Key>
+            <PropertyRef Name="UserID" />
+          </Key>
+          <Property Name="UserID" Type="Int32" Nullable="false" />
+          <Property Name="Uname" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Email" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Address" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <NavigationProperty Name="LoginTable" Relationship="Self.FK__LoginTabl__UserI__1273C1CD" FromRole="UserTable" ToRole="LoginTable" />
+        </EntityType>
+        <Association Name="FK__ExamTable__Stdro__173876EA">
+          <End Role="StudentTable" Type="Self.StudentTable" Multiplicity="1" />
+          <End Role="ExamTable" Type="Self.ExamTable" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="StudentTable">
+              <PropertyRef Name="Stdrollno" />
+            </Principal>
+            <Dependent Role="ExamTable">
+              <PropertyRef Name="Stdrollno" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__SubjectTa__ExamI__1B0907CE">
+          <End Role="ExamTable" Type="Self.ExamTable" Multiplicity="1" />
+          <End Role="SubjectTable" Type="Self.SubjectTable" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="ExamTable">
+              <PropertyRef Name="ExamId" />
+            </Principal>
+            <Dependent Role="SubjectTable">
+              <PropertyRef Name="ExamId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__LoginTabl__UserI__1273C1CD">
+          <End Role="UserTable" Type="Self.UserTable" Multiplicity="1" />
+          <End Role="LoginTable" Type="Self.LoginTable" Multiplicity="0..1" />
+          <ReferentialConstraint>
+            <Principal Role="UserTable">
+              <PropertyRef Name="UserID" />
+            </Principal>
+            <Dependent Role="LoginTable">
+              <PropertyRef Name="UserId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__SubjectTa__Stdro__1A14E395">
+          <End Role="StudentTable" Type="Self.StudentTable" Multiplicity="1" />
+          <End Role="SubjectTable" Type="Self.SubjectTable" Multiplicity="0..1" />
+          <ReferentialConstraint>
+            <Principal Role="StudentTable">
+              <PropertyRef Name="Stdrollno" />
+            </Principal>
+            <Dependent Role="SubjectTable">
+              <PropertyRef Name="Stdrollno" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="EF_ExaminationprojectEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="ExamTables" EntityType="Self.ExamTable" />
+          <EntitySet Name="LoginTables" EntityType="Self.LoginTable" />
+          <EntitySet Name="StudentTables" EntityType="Self.StudentTable" />
+          <EntitySet Name="SubjectTables" EntityType="Self.SubjectTable" />
+          <EntitySet Name="UserTables" EntityType="Self.UserTable" />
+          <AssociationSet Name="FK__ExamTable__Stdro__173876EA" Association="Self.FK__ExamTable__Stdro__173876EA">
+            <End Role="StudentTable" EntitySet="StudentTables" />
+            <End Role="ExamTable" EntitySet="ExamTables" />
+          </AssociationSet>
+          <AssociationSet Name="FK__SubjectTa__ExamI__1B0907CE" Association="Self.FK__SubjectTa__ExamI__1B0907CE">
+            <End Role="ExamTable" EntitySet="ExamTables" />
+            <End Role="SubjectTable" EntitySet="SubjectTables" />
+          </AssociationSet>
+          <AssociationSet Name="FK__LoginTabl__UserI__1273C1CD" Association="Self.FK__LoginTabl__UserI__1273C1CD">
+            <End Role="UserTable" EntitySet="UserTables" />
+            <End Role="LoginTable" EntitySet="LoginTables" />
+          </AssociationSet>
+          <AssociationSet Name="FK__SubjectTa__Stdro__1A14E395" Association="Self.FK__SubjectTa__Stdro__1A14E395">
+            <End Role="StudentTable" EntitySet="StudentTables" />
+            <End Role="SubjectTable" EntitySet="SubjectTables" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="EF_ExaminationprojectModelStoreContainer" CdmEntityContainer="EF_ExaminationprojectEntities">
+          <EntitySetMapping Name="ExamTables">
+            <EntityTypeMapping TypeName="EF_ExaminationprojectModel.ExamTable">
+              <MappingFragment StoreEntitySet="ExamTable">
+                <ScalarProperty Name="ExamId" ColumnName="ExamId" />
+                <ScalarProperty Name="ExamType" ColumnName="ExamType" />
+                <ScalarProperty Name="Stdrollno" ColumnName="Stdrollno" />
+                <ScalarProperty Name="Tmarks" ColumnName="Tmarks" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="LoginTables">
+            <EntityTypeMapping TypeName="EF_ExaminationprojectModel.LoginTable">
+              <MappingFragment StoreEntitySet="LoginTable">
+                <ScalarProperty Name="UserId" ColumnName="UserId" />
+                <ScalarProperty Name="Password" ColumnName="Password" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="StudentTables">
+            <EntityTypeMapping TypeName="EF_ExaminationprojectModel.StudentTable">
+              <MappingFragment StoreEntitySet="StudentTable">
+                <ScalarProperty Name="Stdrollno" ColumnName="Stdrollno" />
+                <ScalarProperty Name="stdname" ColumnName="stdname" />
+                <ScalarProperty Name="schlname" ColumnName="schlname" />
+                <ScalarProperty Name="schlId" ColumnName="schlId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="SubjectTables">
+            <EntityTypeMapping TypeName="EF_ExaminationprojectModel.SubjectTable">
+              <MappingFragment StoreEntitySet="SubjectTable">
+                <ScalarProperty Name="Stdrollno" ColumnName="Stdrollno" />
+                <ScalarProperty Name="ExamId" ColumnName="ExamId" />
+                <ScalarProperty Name="English" ColumnName="English" />
+                <ScalarProperty Name="Maths" ColumnName="Maths" />
+                <ScalarProperty Name="Science" ColumnName="Science" />
+                <ScalarProperty Name="Social" ColumnName="Social" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="UserTables">
+            <EntityTypeMapping TypeName="EF_ExaminationprojectModel.UserTable">
+              <MappingFragment StoreEntitySet="UserTable">
+                <ScalarProperty Name="UserID" ColumnName="UserID" />
+                <ScalarProperty Name="Uname" ColumnName="Uname" />
+                <ScalarProperty Name="Email" ColumnName="Email" />
+                <ScalarProperty Name="Address" ColumnName="Address" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

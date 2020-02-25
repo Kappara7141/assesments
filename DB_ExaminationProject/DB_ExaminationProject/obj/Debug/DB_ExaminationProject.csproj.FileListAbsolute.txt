@@ -1,0 +1,11 @@
+D:\vs2017\ADOnet\DB_ExaminationProject\DB_ExaminationProject\bin\Debug\DB_ExaminationProject.exe.config
+D:\vs2017\ADOnet\DB_ExaminationProject\DB_ExaminationProject\bin\Debug\DB_ExaminationProject.exe
+D:\vs2017\ADOnet\DB_ExaminationProject\DB_ExaminationProject\bin\Debug\DB_ExaminationProject.pdb
+D:\vs2017\ADOnet\DB_ExaminationProject\DB_ExaminationProject\bin\Debug\EntityFramework.dll
+D:\vs2017\ADOnet\DB_ExaminationProject\DB_ExaminationProject\bin\Debug\EntityFramework.SqlServer.dll
+D:\vs2017\ADOnet\DB_ExaminationProject\DB_ExaminationProject\bin\Debug\EntityFramework.xml
+D:\vs2017\ADOnet\DB_ExaminationProject\DB_ExaminationProject\bin\Debug\EntityFramework.SqlServer.xml
+D:\vs2017\ADOnet\DB_ExaminationProject\DB_ExaminationProject\obj\Debug\DB_ExaminationProject.csprojAssemblyReference.cache
+D:\vs2017\ADOnet\DB_ExaminationProject\DB_ExaminationProject\obj\Debug\DB_ExaminationProject.csproj.CopyComplete
+D:\vs2017\ADOnet\DB_ExaminationProject\DB_ExaminationProject\obj\Debug\DB_ExaminationProject.exe
+D:\vs2017\ADOnet\DB_ExaminationProject\DB_ExaminationProject\obj\Debug\DB_ExaminationProject.pdb

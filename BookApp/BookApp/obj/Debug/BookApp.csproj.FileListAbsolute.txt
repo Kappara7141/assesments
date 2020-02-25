@@ -1,0 +1,15 @@
+D:\vs2017\ADOnet\BookApp\BookApp\bin\Debug\BookApp.exe.config
+D:\vs2017\ADOnet\BookApp\BookApp\bin\Debug\BookApp.exe
+D:\vs2017\ADOnet\BookApp\BookApp\bin\Debug\BookApp.pdb
+D:\vs2017\ADOnet\BookApp\BookApp\bin\Debug\EntityFramework.dll
+D:\vs2017\ADOnet\BookApp\BookApp\bin\Debug\EntityFramework.SqlServer.dll
+D:\vs2017\ADOnet\BookApp\BookApp\bin\Debug\EntityFramework.xml
+D:\vs2017\ADOnet\BookApp\BookApp\bin\Debug\EntityFramework.SqlServer.xml
+D:\vs2017\ADOnet\BookApp\BookApp\bin\Debug\ru\EntityFramework.resources.dll
+D:\vs2017\ADOnet\BookApp\BookApp\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\vs2017\ADOnet\BookApp\BookApp\obj\Debug\BookApp.csprojAssemblyReference.cache
+D:\vs2017\ADOnet\BookApp\BookApp\obj\Debug\BookApp.csproj.CopyComplete
+D:\vs2017\ADOnet\BookApp\BookApp\obj\Debug\BookApp.exe
+D:\vs2017\ADOnet\BookApp\BookApp\obj\Debug\BookApp.pdb
+D:\vs2017\ADOnet\BookApp\BookApp\obj\Debug\BookApp.Migrations.CreateBook.resources
+D:\vs2017\ADOnet\BookApp\BookApp\obj\Debug\BookApp.csproj.GenerateResource.cache

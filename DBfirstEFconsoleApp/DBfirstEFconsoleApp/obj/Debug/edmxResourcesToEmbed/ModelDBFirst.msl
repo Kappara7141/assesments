@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="EmployeeDBModelStoreContainer" CdmEntityContainer="EmployeeDBEntities">
+    <EntitySetMapping Name="Traineees">
+      <EntityTypeMapping TypeName="EmployeeDBModel.Traineee">
+        <MappingFragment StoreEntitySet="Traineee">
+          <ScalarProperty Name="TId" ColumnName="TId" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Location" ColumnName="Location" />
+          <ScalarProperty Name="TechDomain" ColumnName="TechDomain" />
+          <ScalarProperty Name="StartDate" ColumnName="StartDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Courses">
+      <EntityTypeMapping TypeName="EmployeeDBModel.Course">
+        <MappingFragment StoreEntitySet="Course">
+          <ScalarProperty Name="Course_id" ColumnName="Course id" />
+          <ScalarProperty Name="coursename" ColumnName="coursename" />
+          <ScalarProperty Name="Startdate" ColumnName="Startdate" />
+          <ScalarProperty Name="Fees" ColumnName="Fees" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,15 @@
+D:\vs2017\ADOnet\EF_Customerdemo\EF_Customerdemo\bin\Debug\EF_Customerdemo.exe.config
+D:\vs2017\ADOnet\EF_Customerdemo\EF_Customerdemo\bin\Debug\EF_Customerdemo.exe
+D:\vs2017\ADOnet\EF_Customerdemo\EF_Customerdemo\bin\Debug\EF_Customerdemo.pdb
+D:\vs2017\ADOnet\EF_Customerdemo\EF_Customerdemo\bin\Debug\EntityFramework.dll
+D:\vs2017\ADOnet\EF_Customerdemo\EF_Customerdemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\vs2017\ADOnet\EF_Customerdemo\EF_Customerdemo\bin\Debug\EntityFramework.xml
+D:\vs2017\ADOnet\EF_Customerdemo\EF_Customerdemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\vs2017\ADOnet\EF_Customerdemo\EF_Customerdemo\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\vs2017\ADOnet\EF_Customerdemo\EF_Customerdemo\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\vs2017\ADOnet\EF_Customerdemo\EF_Customerdemo\obj\Debug\EF_Customerdemo.csproj.CopyComplete
+D:\vs2017\ADOnet\EF_Customerdemo\EF_Customerdemo\obj\Debug\EF_Customerdemo.exe
+D:\vs2017\ADOnet\EF_Customerdemo\EF_Customerdemo\obj\Debug\EF_Customerdemo.pdb
+D:\vs2017\ADOnet\EF_Customerdemo\EF_Customerdemo\obj\Debug\EF_Customerdemo.Migrations.CreateProduct.resources
+D:\vs2017\ADOnet\EF_Customerdemo\EF_Customerdemo\obj\Debug\EF_Customerdemo.csproj.GenerateResource.cache
+D:\vs2017\ADOnet\EF_Customerdemo\EF_Customerdemo\obj\Debug\EF_Customerdemo.csprojAssemblyReference.cache

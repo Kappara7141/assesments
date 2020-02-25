@@ -1,0 +1,15 @@
+D:\vs2017\ADOnet\NewCustomerProduct\NewCustomerProduct\bin\Debug\NewCustomerProduct.exe.config
+D:\vs2017\ADOnet\NewCustomerProduct\NewCustomerProduct\bin\Debug\NewCustomerProduct.exe
+D:\vs2017\ADOnet\NewCustomerProduct\NewCustomerProduct\bin\Debug\NewCustomerProduct.pdb
+D:\vs2017\ADOnet\NewCustomerProduct\NewCustomerProduct\bin\Debug\EntityFramework.dll
+D:\vs2017\ADOnet\NewCustomerProduct\NewCustomerProduct\bin\Debug\EntityFramework.SqlServer.dll
+D:\vs2017\ADOnet\NewCustomerProduct\NewCustomerProduct\bin\Debug\EntityFramework.xml
+D:\vs2017\ADOnet\NewCustomerProduct\NewCustomerProduct\bin\Debug\EntityFramework.SqlServer.xml
+D:\vs2017\ADOnet\NewCustomerProduct\NewCustomerProduct\bin\Debug\es\EntityFramework.resources.dll
+D:\vs2017\ADOnet\NewCustomerProduct\NewCustomerProduct\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+D:\vs2017\ADOnet\NewCustomerProduct\NewCustomerProduct\obj\Debug\NewCustomerProduct.csprojAssemblyReference.cache
+D:\vs2017\ADOnet\NewCustomerProduct\NewCustomerProduct\obj\Debug\NewCustomerProduct.csproj.CopyComplete
+D:\vs2017\ADOnet\NewCustomerProduct\NewCustomerProduct\obj\Debug\NewCustomerProduct.exe
+D:\vs2017\ADOnet\NewCustomerProduct\NewCustomerProduct\obj\Debug\NewCustomerProduct.pdb
+D:\vs2017\ADOnet\NewCustomerProduct\NewCustomerProduct\obj\Debug\NewCustomerProduct.Migrations.CreateCustomer.resources
+D:\vs2017\ADOnet\NewCustomerProduct\NewCustomerProduct\obj\Debug\NewCustomerProduct.csproj.GenerateResource.cache

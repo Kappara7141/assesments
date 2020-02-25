@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EmployeeDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'EmployeeDB.dbo.Course' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="Course">
+    <Key>
+      <PropertyRef Name="Course id" />
+      <PropertyRef Name="coursename" />
+      <PropertyRef Name="Startdate" />
+      <PropertyRef Name="Fees" />
+    </Key>
+    <Property Name="Course id" Type="int" Nullable="false" />
+    <Property Name="coursename" Type="varchar(max)" Nullable="false" />
+    <Property Name="Startdate" Type="date" Nullable="false" />
+    <Property Name="Fees" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Traineee">
+    <Key>
+      <PropertyRef Name="TId" />
+    </Key>
+    <Property Name="TId" Type="int" Nullable="false" />
+    <Property Name="Name" Type="varchar(max)" Nullable="false" />
+    <Property Name="Location" Type="varchar(max)" Nullable="false" />
+    <Property Name="TechDomain" Type="varchar(max)" Nullable="false" />
+    <Property Name="StartDate" Type="date" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="EmployeeDBModelStoreContainer">
+    <EntitySet Name="Traineee" EntityType="Self.Traineee" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Course" EntityType="Self.Course" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Course].[Course id] AS [Course id], 
+    [Course].[coursename] AS [coursename], 
+    [Course].[Startdate] AS [Startdate], 
+    [Course].[Fees] AS [Fees]
+    FROM [dbo].[Course] AS [Course]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

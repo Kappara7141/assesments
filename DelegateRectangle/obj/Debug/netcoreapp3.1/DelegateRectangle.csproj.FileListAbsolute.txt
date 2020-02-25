@@ -1,0 +1,11 @@
+D:\New folder\DelegateRectangle\bin\Debug\netcoreapp3.1\DelegateRectangle.exe
+D:\New folder\DelegateRectangle\bin\Debug\netcoreapp3.1\DelegateRectangle.deps.json
+D:\New folder\DelegateRectangle\bin\Debug\netcoreapp3.1\DelegateRectangle.runtimeconfig.json
+D:\New folder\DelegateRectangle\bin\Debug\netcoreapp3.1\DelegateRectangle.runtimeconfig.dev.json
+D:\New folder\DelegateRectangle\bin\Debug\netcoreapp3.1\DelegateRectangle.dll
+D:\New folder\DelegateRectangle\bin\Debug\netcoreapp3.1\DelegateRectangle.pdb
+D:\New folder\DelegateRectangle\obj\Debug\netcoreapp3.1\DelegateRectangle.csprojAssemblyReference.cache
+D:\New folder\DelegateRectangle\obj\Debug\netcoreapp3.1\DelegateRectangle.AssemblyInfoInputs.cache
+D:\New folder\DelegateRectangle\obj\Debug\netcoreapp3.1\DelegateRectangle.AssemblyInfo.cs
+D:\New folder\DelegateRectangle\obj\Debug\netcoreapp3.1\DelegateRectangle.dll
+D:\New folder\DelegateRectangle\obj\Debug\netcoreapp3.1\DelegateRectangle.pdb

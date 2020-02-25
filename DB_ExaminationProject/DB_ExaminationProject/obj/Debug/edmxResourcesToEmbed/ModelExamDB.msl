@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="EF_ExaminationprojectModelStoreContainer" CdmEntityContainer="EF_ExaminationprojectEntities">
+    <EntitySetMapping Name="ExamTables">
+      <EntityTypeMapping TypeName="EF_ExaminationprojectModel.ExamTable">
+        <MappingFragment StoreEntitySet="ExamTable">
+          <ScalarProperty Name="ExamId" ColumnName="ExamId" />
+          <ScalarProperty Name="ExamType" ColumnName="ExamType" />
+          <ScalarProperty Name="Stdrollno" ColumnName="Stdrollno" />
+          <ScalarProperty Name="Tmarks" ColumnName="Tmarks" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LoginTables">
+      <EntityTypeMapping TypeName="EF_ExaminationprojectModel.LoginTable">
+        <MappingFragment StoreEntitySet="LoginTable">
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="StudentTables">
+      <EntityTypeMapping TypeName="EF_ExaminationprojectModel.StudentTable">
+        <MappingFragment StoreEntitySet="StudentTable">
+          <ScalarProperty Name="Stdrollno" ColumnName="Stdrollno" />
+          <ScalarProperty Name="stdname" ColumnName="stdname" />
+          <ScalarProperty Name="schlname" ColumnName="schlname" />
+          <ScalarProperty Name="schlId" ColumnName="schlId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SubjectTables">
+      <EntityTypeMapping TypeName="EF_ExaminationprojectModel.SubjectTable">
+        <MappingFragment StoreEntitySet="SubjectTable">
+          <ScalarProperty Name="Stdrollno" ColumnName="Stdrollno" />
+          <ScalarProperty Name="ExamId" ColumnName="ExamId" />
+          <ScalarProperty Name="English" ColumnName="English" />
+          <ScalarProperty Name="Maths" ColumnName="Maths" />
+          <ScalarProperty Name="Science" ColumnName="Science" />
+          <ScalarProperty Name="Social" ColumnName="Social" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UserTables">
+      <EntityTypeMapping TypeName="EF_ExaminationprojectModel.UserTable">
+        <MappingFragment StoreEntitySet="UserTable">
+          <ScalarProperty Name="UserID" ColumnName="UserID" />
+          <ScalarProperty Name="Uname" ColumnName="Uname" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 ﻿<!DOCTYPE html>
 <html>
 <head>
@@ -173,4 +174,181 @@
     </center>
 
 </body>
+=======
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body{
+            background-image:url(multi.jpg);
+
+        }
+    </style>
+   
+    <script>
+        function validation() {
+            var uname = registration.uname.value;
+            var letters = /^[a-zA-Z\s]+$/;
+            if (uname == " ") {
+                alert("username cannot be empty");
+                registration.uname.focus();
+                return false;
+            }
+            if (uname.length < 8) {
+                alert("username should contain atleast 8 characters");
+                registration.uname.focus();
+                return false;
+            }
+            if (uname.match(letters)) {
+                alert("username should contain only letters");
+                registration.uname.focus;
+                return false;
+            }
+            var pwd = registration.pwd.value;
+            var cpwd = registration.cpwd.value
+
+            var checkLower = /[a-z]+/.test(pwd);
+            var checkUpper = /[A-Z]+/.test(pwd);
+            var checkDigit = /[0-9]+/.test(pwd);
+            var checkSymbol = /[$@?]+/.test(pwd);
+            if (pwd == " ") {
+                alert("password cannot be empty");
+                registration.pwd.focus();
+                return false;
+            }
+            if (pwd.length <= 8) {
+                alert("password should be greater than eight characters");
+                registration.pwd.focus();
+                return false;
+            }
+            if (pwd != cpwd) {
+                alert("password and confirm password should be same.");
+                registration.cpwd.focus();
+                return false;
+            }
+            var flag = 0;
+            if (checkLower && checkUpper && checkDigit && checkSymbol)
+                flag = 1;
+            if (flag == 0) {
+                alert("password should conatin atleast one lowercase alphabet,one uppercase alphabet,one digit and one symbol");
+                registration.pwd.focus();
+                return false;
+            }
+            var email = registration.email.value;
+            var atpos = email.indexOf("@");
+            var dotpos = email.lastIndexOf(".");
+            if (email == "") {
+                alert("email should not be empty");
+                registration.email.focus();
+                return false;
+            }
+            if (atpos <= 1 || dotpos <= atpos + 2 || dotpos + 2 >= email.length) {
+                alert("not a valid email");
+                registration.email.focus();
+                return false;
+            }
+            var gender = registration.gender.value;
+            if (gender == "") {
+                alert("please select your gender");
+                registration.gender(0).focus();
+                return false;
+            }
+            var age = registration.age.value;
+            if (age == "") {
+                alert("age cannot be blank");
+                registration.age.focus();
+                return false;
+            }
+            if (isNaN(age)) {
+                alert("age should contain only digits");
+                registration.age.focus();
+                return false;
+            }
+            var mobile = registration.mobile.value;
+            if (mobile == "") {
+                alert("mobile number cannot be blank");
+                registration.mobile.focus();
+                return false;
+            }
+            if (isNaN(mobile)) {
+                alert("mobile no should contain only digits");
+                registration.mobile.focus();
+                return false;
+            }
+            if (mobile.length != 10) {
+                alert("mobile no should contain 10 digits");
+                registration.mobile.focus();
+                return false;
+            }
+        }
+
+
+    </script>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <marquee>
+        <h1 align="center">E-Ticket Booking</h1>
+    </marquee>
+    <center>
+        <form name="registration" method="post" action="patientinsertion.jsp" onSubmit="return validation()">
+            <br />
+            <br />
+            <table>
+                <thead>Signup</thead>
+                <tr>
+                    <td>
+                        username
+                    </td>
+                    <td>
+                        <input type="text" name="uname" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        password
+                    </td>
+                    <td>
+                        <input type="password" name="pwd" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        confirm password
+                    </td>
+                    <td>
+                        <input type="password" name="cpwd" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>Email</td>
+                    <td><input type="text" name="email" /></td>
+                </tr>
+                <tr>
+                    <td>gender</td>
+                    <td>
+                        <input type="radio" name="gender" value="male" />male<input type="radio" name="gender" value="female" />female
+                    </td>
+                </tr>
+                <tr>
+                    <td>Age</td>
+                    <td><input type="text" name="age" /></td>
+                </tr>
+                <tr>
+                    <td>Mobile no</td>
+                    <td><input type="text" name="mobile" /></td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="submit" value="SUBMIT" />
+                        <input type="reset" value="RESET" />
+                    </td>
+                </tr>
+            </table>
+        </form>
+    </center>
+
+</body>
+>>>>>>> Stashed changes
 </html>

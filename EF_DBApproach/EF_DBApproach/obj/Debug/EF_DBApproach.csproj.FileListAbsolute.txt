@@ -1,0 +1,11 @@
+D:\vs2017\ADOnet\EF_DBApproach\EF_DBApproach\bin\Debug\EF_DBApproach.exe.config
+D:\vs2017\ADOnet\EF_DBApproach\EF_DBApproach\bin\Debug\EF_DBApproach.exe
+D:\vs2017\ADOnet\EF_DBApproach\EF_DBApproach\bin\Debug\EF_DBApproach.pdb
+D:\vs2017\ADOnet\EF_DBApproach\EF_DBApproach\bin\Debug\EntityFramework.dll
+D:\vs2017\ADOnet\EF_DBApproach\EF_DBApproach\bin\Debug\EntityFramework.SqlServer.dll
+D:\vs2017\ADOnet\EF_DBApproach\EF_DBApproach\bin\Debug\EntityFramework.xml
+D:\vs2017\ADOnet\EF_DBApproach\EF_DBApproach\bin\Debug\EntityFramework.SqlServer.xml
+D:\vs2017\ADOnet\EF_DBApproach\EF_DBApproach\obj\Debug\EF_DBApproach.csprojAssemblyReference.cache
+D:\vs2017\ADOnet\EF_DBApproach\EF_DBApproach\obj\Debug\EF_DBApproach.csproj.CopyComplete
+D:\vs2017\ADOnet\EF_DBApproach\EF_DBApproach\obj\Debug\EF_DBApproach.exe
+D:\vs2017\ADOnet\EF_DBApproach\EF_DBApproach\obj\Debug\EF_DBApproach.pdb

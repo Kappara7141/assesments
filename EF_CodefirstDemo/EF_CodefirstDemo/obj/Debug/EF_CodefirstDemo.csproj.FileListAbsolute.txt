@@ -1,0 +1,15 @@
+D:\vs2017\ADOnet\EF_CodefirstDemo\EF_CodefirstDemo\bin\Debug\EF_CodefirstDemo.exe.config
+D:\vs2017\ADOnet\EF_CodefirstDemo\EF_CodefirstDemo\bin\Debug\EF_CodefirstDemo.exe
+D:\vs2017\ADOnet\EF_CodefirstDemo\EF_CodefirstDemo\bin\Debug\EF_CodefirstDemo.pdb
+D:\vs2017\ADOnet\EF_CodefirstDemo\EF_CodefirstDemo\bin\Debug\EntityFramework.dll
+D:\vs2017\ADOnet\EF_CodefirstDemo\EF_CodefirstDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\vs2017\ADOnet\EF_CodefirstDemo\EF_CodefirstDemo\bin\Debug\EntityFramework.xml
+D:\vs2017\ADOnet\EF_CodefirstDemo\EF_CodefirstDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\vs2017\ADOnet\EF_CodefirstDemo\EF_CodefirstDemo\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\vs2017\ADOnet\EF_CodefirstDemo\EF_CodefirstDemo\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\vs2017\ADOnet\EF_CodefirstDemo\EF_CodefirstDemo\obj\Debug\EF_CodefirstDemo.csprojAssemblyReference.cache
+D:\vs2017\ADOnet\EF_CodefirstDemo\EF_CodefirstDemo\obj\Debug\EF_CodefirstDemo.csproj.CopyComplete
+D:\vs2017\ADOnet\EF_CodefirstDemo\EF_CodefirstDemo\obj\Debug\EF_CodefirstDemo.exe
+D:\vs2017\ADOnet\EF_CodefirstDemo\EF_CodefirstDemo\obj\Debug\EF_CodefirstDemo.pdb
+D:\vs2017\ADOnet\EF_CodefirstDemo\EF_CodefirstDemo\obj\Debug\EF_CodefirstDemo.Migrations.CreateEmployee.resources
+D:\vs2017\ADOnet\EF_CodefirstDemo\EF_CodefirstDemo\obj\Debug\EF_CodefirstDemo.csproj.GenerateResource.cache
